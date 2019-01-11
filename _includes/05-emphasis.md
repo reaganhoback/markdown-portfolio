@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## Attributes
+1. __*Organized*__
+2. __*Hardworking*__
+3. __*Responsible*__
